@@ -15,7 +15,14 @@
 
 ### **Skills** ###
 
-*HTML, CSS, JS, SCSS, Bootstrap, JQuery, BEM*
+*HTML
+*CSS
+    *SCSS
+    *BEM
+    *Bootstrap
+*JS
+    *JQuery
+
 
 ### **Sample code** ###
 
